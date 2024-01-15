@@ -1,0 +1,52 @@
+{
+    "data": [
+        {
+        "dishes": [
+            {
+                "id": 1,
+                "image": "./dosa.jpg",
+                "title": "MAHARAJA DOSA",
+                "category": "Breakfast"
+            },
+            {
+                "id": 2,
+                "image": "./zunka.jpg",
+                "title": "ZUNKA BHAKAR",
+                "category": "Lunch"
+            },
+            {
+                "id": 3,
+                "image": "./Samosa-tarri.jpeg",
+                "title": "TARRI SAMOSA",
+                "category": "Breakfast"
+            },
+            {
+                "id": 4,
+                "image": "./saoji-chicken.jpg",
+                "title": "SAOJI SPECIAL",
+                "category": "Dinner"
+            }
+
+        ],
+        
+        "navbarLinks": [
+            {
+                "id": 1,
+                "title": "HOME",
+                "link": "heroSection"
+            },
+            {
+                "id": 2,
+                "title": "ABOUT US",
+                "link": "about"
+            },
+            {
+                "id": 3,
+                "title": "RESERVATION",
+                "link": "reservation"
+            }
+        ]
+    
+    } 
+    ]
+}
